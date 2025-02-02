@@ -1,0 +1,9 @@
+Flask
+boto3
+langchain
+python-dotenv
+faiss-cpu
+requests
+streamlit-lottie
+uuid
+langchain-community
